@@ -109,7 +109,7 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 ### Sample Text Prediction
 
-<img width="739" height="674" alt="Screenshot 2026-03-07 015808" src="https://github.com/user-attachments/assets/fe633c48-8881-4638-a80d-75c0fbf7e59e" />
+<img width="900" height="1148" alt="aligned_output" src="https://github.com/user-attachments/assets/b4b50a37-01b9-478f-a120-237f470b895e" />
 
 
 ## RESULT
